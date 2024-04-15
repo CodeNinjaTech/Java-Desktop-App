@@ -1,5 +1,7 @@
 # Java Exercise on GUI and Databases
 
+Desktop App Project for the Java Course of the Department of Programmers-Analysts of the School of Computer Programmers of the Hellenic Armed Forces
+
 ## Description
 
 A parking lot charges $2.00 minimum cost for parking up to 3 hours. For each hour or part of an hour over 3, it charges an additional $0.50. The maximum charge for a full 24-hour period is $10.00.
